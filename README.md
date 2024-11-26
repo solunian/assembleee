@@ -2,6 +2,8 @@
 
 some assembly required notes!
 
+this might actually be complicated.
+
 - can compile c into assembly with -S flag in the compiler
 - steps of compilation for c:
   - clang -S file.c => assembly file in assembly code (preprocessor/compiler step)
